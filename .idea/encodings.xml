@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/https-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/https-demo/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/https-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/https-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payModule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paydemo" charset="UTF-8" />
+  </component>
+</project>

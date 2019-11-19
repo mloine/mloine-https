@@ -1,0 +1,15 @@
+# 此端口为HTTPS端口
+server:
+  port: 9527
+  ssl:
+    key-store: classpath:server/mloinestore.p12
+    key-store-password: mloine@123*Ds
+    key-store-type: PKCS12
+    key-alias: mloine_ca
+
+# http端口
+http:
+  port: 7070
+
+swagger:
+  enable: true
